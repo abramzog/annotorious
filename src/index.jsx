@@ -7,9 +7,9 @@ import {
   WebAnnotation,
   createEnvironment,
   setLocale
-} from '@recogito/recogito-client-core';
+} from '@abramzog/recogito-client-core';
 
-import '@recogito/recogito-client-core/themes/default';
+import '@abramzog/recogito-client-core/themes/default';
 
 /**
  * The entrypoint into the application. Provides the

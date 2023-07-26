@@ -3,7 +3,7 @@
   <br/><br/>
 </p>
 
-[![](https://data.jsdelivr.com/v1/package/npm/@recogito/annotorious/badge)](https://www.jsdelivr.com/package/npm/@recogito/annotorious)
+[![](https://data.jsdelivr.com/v1/package/npm/@abramzog/annotorious/badge)](https://www.jsdelivr.com/package/npm/@abramzog/annotorious)
 
 A JavaScript image annotation library. Add drawing, commenting and labeling functionality to images
 in Web pages with just a few lines of code. Weighs less than 300kB. See the [project website](https://recogito.github.io/annotorious/)
@@ -13,12 +13,12 @@ for details and live demos.
 
 ## Installing
 
-If you use npm, `npm install @recogito/annotorious` and 
+If you use npm, `npm install @abramzog/annotorious` and 
 
 ```javascript
-import { Annotorious } from '@recogito/annotorious';
+import { Annotorious } from '@abramzog/annotorious';
 
-import '@recogito/annotorious/dist/annotorious.min.css';
+import '@abramzog/annotorious/dist/annotorious.min.css';
 
 const anno = new Annotorious({ image: 'hallstatt' }); // image element or ID
 ```

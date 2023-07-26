@@ -1,4 +1,4 @@
-import { Selection } from '@recogito/recogito-client-core';
+import { Selection } from '@abramzog/recogito-client-core';
 import { toSVGTarget } from '../../selectors/EmbeddedSVG';
 import { SVG_NAMESPACE } from '../../util/SVG';
 import Mask from './PolygonMask';

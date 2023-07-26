@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import AnnotationLayer from './AnnotationLayer';
-import { Editor } from '@recogito/recogito-client-core';
+import { Editor } from '@abramzog/recogito-client-core';
 import { getSnippet } from './util/ImageSnippet';
 
 import './ImageAnnotator.scss';

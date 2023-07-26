@@ -1,4 +1,4 @@
-import { Selection } from '@recogito/recogito-client-core';
+import { Selection } from '@abramzog/recogito-client-core';
 import { SVG_NAMESPACE } from '../../util/SVG';
 import {
   drawRect,
